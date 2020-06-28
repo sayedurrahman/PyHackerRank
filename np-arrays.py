@@ -3,6 +3,8 @@
 Created on Sun Jun 28 04:21:31 2020
 
 @author: Sayedur Rahman(sayedur.rahmans@gmail.com)
+Problem: 
+https://www.hackerrank.com/challenges/np-arrays/problem
 """
 
 import numpy
