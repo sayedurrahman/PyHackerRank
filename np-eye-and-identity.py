@@ -4,7 +4,7 @@ Created on Tue Jun 30 21:59:55 2020
 
 @author: Sayedur Rahman(sayedur.rahmans@gmail.com)
 Problem: 
-    https://www.hackerrank.com/challenges/np-eye-and-identity/problem
+https://www.hackerrank.com/challenges/np-eye-and-identity/problem
 """
 
 import numpy
