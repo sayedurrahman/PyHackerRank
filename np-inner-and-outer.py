@@ -14,3 +14,5 @@ array_2=numpy.array(input().split(),dtype=int)
 
 print(numpy.inner(array_1,array_2))
 print(numpy.outer(array_1,array_2))
+
+
